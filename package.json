@@ -8,7 +8,7 @@
     "build": "webpack",
     "dev": "lite-server"
   },
-  "author": "",
+  "author": "Bikal Adhikari",
   "license": "ISC",
   "dependencies": {
     "@types/react": "^18.3.3",
